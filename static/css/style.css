@@ -1,0 +1,16 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+.info.legend i {
+  width: 25px; /* Adjust width as needed */
+  height: 15px; /* Adjust height as needed */
+  display: inline-block; /* Ensure it displays as a block */
+  margin-right: 5px; /* Space between the rectangle and text */
+}
